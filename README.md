@@ -31,7 +31,3 @@ PRIVATE_STRIPE
 JWT_SECRET
 
 ```
-
-## About
-
-Developer – [Chukwuebuka Osuji](https://github.com/atlasmoth)
